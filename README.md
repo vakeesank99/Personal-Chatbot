@@ -23,7 +23,7 @@ The personal chatbot can be used to answer from the data you have. you can impor
 2. Install the necessary dependencies.
   - `pip install -r requirement.txt` or `pip3 install -r requirement.txt`
 3. Update the environment variable.
-  - Open the .env file and update the `OPENAI_API_KEY` with your own OpenAI API key.
+  - Open the `.env` file and update the `OPENAI_API_KEY` with your own OpenAI API key.
   - Follow the link to create your API key. [OpenAI API](https://platform.openai.com/api-keys)
 4. Run the program.
   - `python panel_app.py` or `python3 panel_app.py`
