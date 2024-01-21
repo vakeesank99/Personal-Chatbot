@@ -1,7 +1,0 @@
-who is vakeesan?
-what are skills he has?
-who is the author of rich dad poor dad?
-
-git remote add origin https://github.com/vakeesank99/hatch_challenge.git
-git branch -M main
-git push -u origin main
