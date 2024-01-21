@@ -1,8 +1,9 @@
 **/**.pdf
 /docs/chroma
-/docs
 /flagged
 /pdfs
 Gradio_app.ipynb
 .vscode
 .ipynb_checkpoints
+/img
+question_set.txt
